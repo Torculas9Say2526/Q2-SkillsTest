@@ -1,0 +1,40 @@
+
+body {
+  background-color: #f5f7fa;
+  background-image: url(https://i.pinimg.com/736x/ae/8f/62/ae8f62b65a021f43a8aebfe5da742523.jpg);
+  background-size: cover;
+}
+
+
+.enrollment-header {
+  background: linear-gradient(135deg, #687e94, #3db2ff);
+}
+
+
+.form-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  opacity: 0.9;
+}
+
+
+.form-card h5 {
+  font-weight: 600;
+  color: #333;
+}
+
+
+.form-label {
+  font-weight: 500;
+}
+
+
+.btn-primary {
+  padding: 10px 40px;
+  font-size: 16px;
+}
+
+
+footer {
+  font-size: 14px;
+}
